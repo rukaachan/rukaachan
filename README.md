@@ -4,7 +4,7 @@
     <br>I'm a Blockchain Enthusiast and Software Developer.<br>
   </samp>
   <br>
-  <img src="https://user-images.githubusercontent.com/50201452/224543334-ccdb8e02-8412-488a-a758-49777dea447c.gif" width="400" height="250">
+  <img src="https://user-images.githubusercontent.com/50201452/224543334-ccdb8e02-8412-488a-a758-49777dea447c.gif" width="400" height="230">
   
 </div>
 
