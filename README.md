@@ -4,7 +4,3 @@
     <br>I'm a Blockchain Enthusiast and Software Developer.<br>
   </samp>
 </div>
-
-
- 
-
