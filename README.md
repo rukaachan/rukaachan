@@ -65,9 +65,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rukaachan/rukaachan/output/snake.svg" alt="Snake animation" />
-
-###
