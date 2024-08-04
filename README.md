@@ -65,8 +65,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <br></br>
-  <img src="https://images7.alphacoders.com/109/thumbbig-1097180.webp" height="auto" width="80%" alt="nextjs logo"  />
-</div>
